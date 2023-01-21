@@ -1,2 +1,2 @@
-# NKPlugin
+# NKUnityPlugin
 My Unity utility plugins.
