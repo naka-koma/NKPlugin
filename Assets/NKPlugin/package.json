@@ -14,5 +14,13 @@
 
     "dependencies": {
 
-    }
+    },
+
+    "samples":[
+        {
+            "displayName": "Playground",
+            "description": "Playground samples",
+            "path": "Samples/NKPluginPlayground"
+        }
+    ]
 }
